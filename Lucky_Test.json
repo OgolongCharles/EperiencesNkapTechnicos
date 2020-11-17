@@ -1,0 +1,5 @@
+{
+        Var prefixe = "Lucky"
+        var suffixe = "Gold"
+        Name = prefixe + Suffixe
+}
